@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+api.env
+.env
+.env.*
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Local SQLite DB or other runtime files
+*.sqlite3
+*.db
+
+# Coverage/testing
+.coverage
+coverage.xml
+htmlcov/
+
+# PyInstaller
+dist/
+build/
+*.spec
